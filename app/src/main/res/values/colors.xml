@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="indigoVelvet">#3d348b</color>
+    <color name="mediumSlateBlue">#7678ed</color>
+    <color name="amberFlame">#f7b801</color>
+    <color name="tigerOrange">#f18701</color>
+    <color name="cayenneRed">#f35b04</color>
+
 </resources>
